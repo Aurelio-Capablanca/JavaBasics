@@ -1,0 +1,5 @@
+com\mycompany\multidimensionalarrays\model\container.class
+com\mycompany\multidimensionalarrays\MultidimensionalArrays.class
+com\mycompany\multidimensionalarrays\controller\menu.class
+com\mycompany\multidimensionalarrays\controller\containerController.class
+com\mycompany\multidimensionalarrays\helpers\helper.class

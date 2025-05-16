@@ -1,0 +1,38 @@
+
+- Hacer un login con un usuario y clave predeterminado,
+mostrando un mensaje de error al ingresar datos incorrectos.
+
+usuario = POO
+clave = 02
+
+al ingresar realizar lo siguiente:
+
+solicitar las notas finales de POO, tomando en cuenta que no se sabe
+el numero de notas hasta que pase la nota del último estudiante; con cada
+nota determinar e imprimir:
+
+-- para cada estudiante: 
+si es mayor o igual a 9.0: Excelente
+si es mayor o igual a 7.0: Bueno
+si es mayor o igual a 5.0: Regular
+si es mayor o igual a 3.0: Necesita Mejorar
+si es mayor o igual a 0.0: Necesita un milagro
+
+Resumen de Notas procesadas: 
+
+cantidad de aprobados
+candidad de reprobados
+
+cantidad de excelentes
+cantidad de bueno
+cantidad de regular
+cantidad de necesita mejorar
+cantidad de necesita un milagro
+
+promedio de notas aprobados
+promedio de notas reprobados
+
+promedio de notas total
+
+nota mayor
+nota menor
